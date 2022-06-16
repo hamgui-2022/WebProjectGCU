@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <link href="menu.css" rel="stylesheet" type="text/css" />
+    </head>
+<body topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0" style="background-color:#F6F6F6">
+    <div class="menu" >
+      <nav class="clearfix">
+        <ul class="clearfix">
+          <li><a href="webpage.html">Home</a></li> <!--""<-여기 부분에 URL 작성하면 됨-->
+          <li><a href="practice2.html">brewery</a></li>
+          <li><a href="jinwoo.html">Distilled beverage</a></li>
+          <li><a href="jaeHyeok_1.html">Liqueur</a></li>
+          <li><a href="wonki.html">Tradition</a></li>
+      </ul>
+      <a id="pull" href="#"></a>
+    </nav>
+
+    <img src="sool3.png" />
+</div>
+	</div>
+  </body>
+ </html>
