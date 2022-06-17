@@ -36,6 +36,17 @@ nav li:last-child a {
 nav a#pull {
   display: none;
 }
+@media screen and (max-width: 500px) {
+  nav li {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  nav {
+    background-color: #333;
+  }
+}
+
 html {
   -webkit-touch-callout: none;
   -webkit-user-select: none;
